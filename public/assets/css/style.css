@@ -1,0 +1,74 @@
+.slika{
+    width: 100px;
+}
+
+.trix-button--icon-attach {
+    display:none;
+}
+
+.adminName{
+    margin: 0px 35px;
+}
+
+#noPosts{
+    text-align: center;
+}
+
+#noPosts h3{
+    padding-bottom: 80px;
+}
+
+#name{
+    text-align: center;
+}
+
+#name h3{
+    padding-bottom: 30px;
+}
+.new{
+    padding-bottom: 50px;
+}
+
+nav{
+    width: 100%;
+}
+
+.levo{
+    text-align: left;
+}
+
+i.icon-blue {
+    color:#0cb4c9;
+}
+
+.post-thumbnail{
+    height: 203px;
+    overflow: hidden;
+  }
+
+.oneImage{
+    height: auto;
+}
+
+.info {
+    color: #999;
+    font-size: 84%;
+}
+
+.info:last-child{
+    padding-bottom:3.5%;
+}
+
+.prof-info{
+    border-bottom: 1px solid #eee;
+    margin-bottom: 3%
+}
+
+.edidtButtons{
+    margin-bottom: 10px!important;
+}
+
+.fo ul li{
+    padding: 0 !important;
+}
+
